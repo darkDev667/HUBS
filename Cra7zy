@@ -2,7 +2,7 @@
 
 pcall(function()
 
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/darkDev667/Obfuscate/refs/heads/main/49400b51d9af0b38.lua"))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/darkDev667/Obfuscate/refs/heads/main/92991025edd0c864.lua"))()
 
 end)
 
